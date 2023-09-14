@@ -1,8 +1,8 @@
 # hello-world
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Andre",
+  "lastName": "Stein",
+  "age": 27
 }
 ``` 
